@@ -1,4 +1,4 @@
-<p align="center"><h1>Zokou-2.0 </h1><br> </p>
+<p align="center"><h1>World Of Hiden Blue</h1><br> </p>
 
 
 
@@ -9,22 +9,22 @@
 
 ## Fonctionnalités Principales
 
-- **Téléchargement de Fichiers :** Zokou peut télécharger des fichiers audio et vidéo à partir de liens que vous lui envoyez, pour que vous puissiez les partager facilement avec vos contacts.
+- **Téléchargement de Fichiers :** World Of Hiden Blue peut télécharger des fichiers audio et vidéo à partir de liens que vous lui envoyez, pour que vous puissiez les partager facilement avec vos contacts.
 
-- **Exportation de Stickers :** Vous pouvez exporter des stickers de Telegram et les utiliser dans vos conversations WhatsApp en les envoyant simplement à Zokou.Vous avez donc besoins de l'api key de chez api.lolhuman.xyz ; un api  key vous est offert au cas ou vous y arrivez pas : ```9d05ccc5f58e1cf30937```
+- **Exportation de Stickers :** Vous pouvez exporter des stickers de Telegram et les utiliser dans vos conversations WhatsApp en les envoyant simplement à World Of Hiden Blue.Vous avez donc besoins de l'api key de chez api.lolhuman.xyz ; un api  key vous est offert au cas ou vous y arrivez pas : ```9d05ccc5f58e1cf30937```
 
-- **Gestion de Groupe :** Zokou offre des fonctionnalités de gestion de groupe, comme l'ajout ou la suppression de membres, la configuration de règles et d'autres paramètres.
+- **Gestion de Groupe :** World Of Hiden Blue  offre des fonctionnalités de gestion de groupe, comme l'ajout ou la suppression de membres, la configuration de règles et d'autres paramètres.
 
 - **Text to img :** Les meilleurs logos on été sélectionné pour votre confort.
 
 ## Fonctionnalités Ludiques
 
-- **Blagues et Devinettes :** Zokou est équipé d'une collection de blagues et de devinettes pour égayer vos conversations.
+- **Blagues et Devinettes :** World Of Hiden Blue est équipé d'une collection de blagues et de devinettes pour égayer vos conversations.
 
 - **Citations Inspirantes :** Recevez des citations inspirantes pour vous motiver au quotidien.
 
 
-## Obtenir Zokou
+## Obtenir World Of Hiden Blue 
 
 1. Veillez cliquer sur **[Fork](https://github.com/djalega8000/Zokou-2.0/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
 
