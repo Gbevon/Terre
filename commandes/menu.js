@@ -6,7 +6,7 @@ const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 
-zokou({ nomCom: "menu", reaction:"📁",categorie: "Général" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "option", reaction:"🌏",categorie: "Général" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -40,13 +40,13 @@ const date = moment().format('DD/MM/YYYY');
 ┃   *Heure* : ${temps}
 ┃   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┃   *Plateforme* : ${os.platform()}
-┃   *Développeurs* : Djalega++ 
-┃  & M๏𝓷keℽ D Lบffy
+┃   *Développeurs* : Lord Of apocalypse 
+┃
 *╚═════ •✧✧• ════╝* \n\n`;
     
 let menuMsg = `
 👋 salut ${nomAuteurMessage} 👋
-Je suis *${s.BOT}*, un bot développé par *La team Zokou*.
+Je suis *${s.BOT}*, un bot développé par *Lord Of apocalypse*.
 
 *Voici la liste de mes commandes :*
 ◇                             ◇
@@ -67,7 +67,7 @@ Je suis *${s.BOT}*, un bot développé par *La team Zokou*.
 *»»————— ★ —————««*
 Pour utiliser une  commande, tapez  ${prefixe}"nom de la commande"
  
- *『ZokouMD*
+ *『WOHB*
                                                 
 *»»————— ★ —————««*
 `;
@@ -76,7 +76,7 @@ Pour utiliser une  commande, tapez  ${prefixe}"nom de la commande"
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Zokou-MD*, développé par Djalega++" , gifPlayback : true}, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *serveur wohb*, développé par Lord Of apocalypse" , gifPlayback : true}, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -86,7 +86,7 @@ Pour utiliser une  commande, tapez  ${prefixe}"nom de la commande"
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Zokou-MD*, développé par Djalega++" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *serveur wohb*, développé par Lord of apocalypse" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
