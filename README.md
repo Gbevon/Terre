@@ -3,9 +3,9 @@
 
 
 
-![banner](Zokou.jpg)
+![banner](Wohb)
 
- Zokou est un bot multi-devices conçu pour enrichir vos conversations WhatsApp avec des fonctionnalités utiles et amusantes. Qu'il s'agisse de gérer des fichiers, d'interagir avec des stickers ou de faciliter la gestion de groupe, Zokou est là pour vous aider.
+ World Of Hiden Blue est un bot multi-devices conçu pour enrichir vos conversations WhatsApp avec des fonctionnalités utiles et amusantes. Qu'il s'agisse de gérer des fichiers, d'interagir avec des stickers ou de faciliter la gestion de groupe, World Of Hiden Blue est là pour vous aider.
 
 ## Fonctionnalités Principales
 
@@ -45,11 +45,11 @@ Les contributions à Zokou sont les bienvenues ! Si vous avez des idées pour de
 
 Nous remercions certaines personnes pour leur contribution :
 
-**Fatao** qui a ajouter des commandes editeurs de texte (Fancy)
+**LOA** qui a ajouter des commandes editeurs de texte (Fancy)
                 
 ## Licence
 
-Le Bot WhatsApp Zokou est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
+Le Bot WhatsApp World Of Hiden Blue est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
 Profitez des fonctionnalités variées du Bot WhatsApp Zokou pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
 
